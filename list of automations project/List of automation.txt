@@ -1,6 +1,6 @@
 Certainly! Here are some small automation project ideas that you can use for Python practice:
 
-File Organizer:
+=> ☑File Organizer: (complete)
 Create a script to organize files in a directory based on their types (e.g., images, documents, videos).
 
 Bulk File Renamer:
